@@ -7,7 +7,7 @@ bookmarklet.html
 
 This HTML page contains a Bookmarklet that once dragged to your Bookmarks bar allows you to post any web page to Workplace. Download the file, then open it with your browser and drag the Workplace image to your Bookmarks bar.
 
-<img src='https://github.com/lyletedwards/sharetoworkplace/blob/master/bookmarkletbar.png'>
+<img src='https://github.com/lyletedwards/sharetoworkplace/blob/master/bookmarkletbar.png' height='50%' width='50%'>
 
 share.js
 
