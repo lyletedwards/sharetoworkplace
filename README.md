@@ -8,10 +8,9 @@ This is a raw javascript that enable the bookmarket shortcut to work. Create a n
 <a href='https://github.com/lyletedwards/sharetoworkplace/blob/master/share.js'>JavaScript Code</a>
 
 Screenshots<p>
+<img src='https://github.com/lyletedwards/sharetoworkplace/blob/master/bookmarkletsettings.png' height='50%' width='50%'>
+  <p>
 <img src='https://github.com/lyletedwards/sharetoworkplace/blob/master/bookmarkletbar.png' height='30%' width='30%'>
-<p>
-<img src='https://github.com/lyletedwards/sharetoworkplace/blob/master/bookmarkletsettings.png' height='30%' width='30%'>
-
 
 <a href='https://github.com/lyletedwards/sharetoworkplace/wiki'>Workplace bookmarlet Wiki Page</a>
 
