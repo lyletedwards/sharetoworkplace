@@ -11,11 +11,11 @@ options = 'toolbar=0,status=0,resizable=1,width=626,height=436';
 window.open(url,'sharer',options);
 })();</code>'
 
-<a href='https://github.com/lyletedwards/sharetoworkplace/blob/master/share.js'>JavaScript Code</a>
+<a href='https://github.com/lyletedwards/sharetoworkplace/blob/master/share.js'>Link to JavaScript Code</a>
 
 Screenshots<p>
 <img src='https://github.com/lyletedwards/sharetoworkplace/blob/master/bookmarkletsettings.png' height='50%' width='50%'>
-  <p>
+<p>
 <img src='https://github.com/lyletedwards/sharetoworkplace/blob/master/bookmarkletbar.png' height='30%' width='30%'>
 
 <a href='https://github.com/lyletedwards/sharetoworkplace/wiki'>Workplace bookmarlet Wiki Page</a>
