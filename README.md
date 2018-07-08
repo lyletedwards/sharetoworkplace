@@ -14,7 +14,7 @@ window.open(url,'sharer',options);
 
 <a href='https://github.com/lyletedwards/sharetoworkplace/blob/master/share.js'>Link to JavaScript Code</a>
 
-Paste the code and save<p>
+Paste the code and Save<br>
 <img src='https://github.com/lyletedwards/sharetoworkplace/blob/master/bookmarkletsettings.png' height='50%' width='50%'>
 <p>
 You are ready to go<br>
