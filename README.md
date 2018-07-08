@@ -5,6 +5,12 @@ I created the Workplace bookmarlet to enable easy one button publishing of any w
 
 This is a raw javascript that enable the bookmarket shortcut to work. Create a new shortcut on the Bookmarks bar and copy and past the code from the share.js file in to the URL field. Give it a name like Share to Workplace and save.
 
+'javascript:(function(){
+url = 'https://work.facebook.com/sharer.php?display=popup&u=' + window.location.href;
+options = 'toolbar=0,status=0,resizable=1,width=626,height=436';
+window.open(url,'sharer',options);
+})();'
+
 <a href='https://github.com/lyletedwards/sharetoworkplace/blob/master/share.js'>JavaScript Code</a>
 
 Screenshots<p>
