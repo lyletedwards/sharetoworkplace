@@ -1,5 +1,5 @@
 # sharetoworkplace
-<img src='https://github.com/lyletedwards/sharetoworkplace/blob/master/workplacelogo.png' height='24' width='100'>
+<img src='https://github.com/lyletedwards/sharetoworkplace/blob/master/workplacelogo.png' height='48' width='200'>
 
 Share to Workplace by Facebook Bookmarklet
 
