@@ -11,8 +11,8 @@ share.js
 
 This is a raw javascript that enable the bookmarket shortcut to work. Create a new shortcut on the Bookmarks bar and copy and past the code from the posttoworkplace.js file in to the URL field. Give it a name like Post to Workplace and save.
 
-Workplace bookmarlet Wiki Page
-https://github.com/lylecoke/workplacebookmarlet/wiki
+<a href='https://github.com/lylecoke/workplacebookmarlet/wiki'>Workplace bookmarlet Wiki Page</a>
+
 
 Lyle Edwards 
 
